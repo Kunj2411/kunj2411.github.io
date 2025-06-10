@@ -86,6 +86,13 @@ ctcMail.forEach(mail => {
 
 
 const allProjects = [
+
+  {
+    name: "Super Tic-Tac-Toe Game",
+    description: "A board game composed of nine Tic Tac Toe boards arranged in a 3-by-3 grid",
+    img: "images/tic-tac-toe.png",
+    link: "https://kunj2411.github.io/Super-Tic-Tac-Toe/"
+  },
   {
     name: "ATM - Attendance Taking Machine",
     description: "Face Recognition-based attendance system using Computer Vision.",
